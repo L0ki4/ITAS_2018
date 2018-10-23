@@ -1,0 +1,7 @@
+Лучшее на данный момент: LR = 0.001, Depth = 1, Flag = True, Mean LogLoss = 0.34949736527440134
+Лучшее на данный момент: LR = 0.001, Depth = 2, Flag = True, Mean LogLoss = 0.2884551418183151
+Лучшее на данный момент: LR = 0.001, Depth = 4, Flag = True, Mean LogLoss = 0.2798608883464167
+Лучшее на данный момент: LR = 0.003, Depth = 2, Flag = True, Mean LogLoss = 0.2680699125869713
+Лучшее на данный момент: LR = 0.03, Depth = 4, Flag = True, Mean LogLoss = 0.26806016725878873
+Лучшее на данный момент: LR = 0.1, Depth = 2, Flag = True, Mean LogLoss = 0.2670177560220904
+best_lr = 0.1, best_depth = 2
